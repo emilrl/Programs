@@ -1,0 +1,8 @@
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\bin\Debug\Problem010.exe.config
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\bin\Debug\Problem010.exe
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\bin\Debug\Problem010.pdb
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\bin\Debug\Problem007.exe
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\bin\Debug\Problem007.pdb
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\obj\Debug\Problem010.csprojResolveAssemblyReference.cache
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\obj\Debug\Problem010.exe
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem010\obj\Debug\Problem010.pdb

@@ -1,0 +1,8 @@
+c:\users\emil\documents\visual studio 2015\Projects\ProjectEuler\Problem006\bin\Debug\Problem006.exe.config
+c:\users\emil\documents\visual studio 2015\Projects\ProjectEuler\Problem006\bin\Debug\Problem006.exe
+c:\users\emil\documents\visual studio 2015\Projects\ProjectEuler\Problem006\bin\Debug\Problem006.pdb
+c:\users\emil\documents\visual studio 2015\Projects\ProjectEuler\Problem006\obj\Debug\Problem006.exe
+c:\users\emil\documents\visual studio 2015\Projects\ProjectEuler\Problem006\obj\Debug\Problem006.pdb
+C:\Users\Emil\Source\Repos\Programs\Problem006\bin\Debug\Problem006.exe.config
+C:\Users\Emil\Source\Repos\Programs\Problem006\obj\Debug\Problem006.exe
+C:\Users\Emil\Source\Repos\Programs\Problem006\obj\Debug\Problem006.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\obj\Debug\Problem11Tests.csprojResolveAssemblyReference.cache
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\bin\Debug\Problem11Tests.dll
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\bin\Debug\Problem11Tests.pdb
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\bin\Debug\Problem011.exe
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\bin\Debug\Problem011.pdb
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\obj\Debug\Problem11Tests.dll
+C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem11Tests\obj\Debug\Problem11Tests.pdb
