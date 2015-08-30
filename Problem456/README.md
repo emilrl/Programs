@@ -1,4 +1,4 @@
-﻿##Triangles containing the origin II
+﻿###Triangles containing the origin II
 
 Define:
 xn = (1248n mod 32323) - 16161
