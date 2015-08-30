@@ -18,7 +18,11 @@ namespace Problem007
             Console.WriteLine(stopWatch.ElapsedMilliseconds + " ms");
             Console.ReadKey();
         }
-
+        /// <summary>
+        /// Description of function.
+        /// </summary>
+        /// <param name="n">Number to check</param>
+        /// <returns></returns>
         public static bool NumberIsPrime(long n)
         {
             var sqrt = Convert.ToInt64(Math.Sqrt(n));

@@ -16,18 +16,16 @@ namespace Problem010
 
         public static long PrimeSum(long max)
         {
-            var lastPrime = 0;
-            long result = 0;
+            long result = 2;
             for (var i = 3; i < max; i += 2)
             {
-                bool isPrime = Problem007.Program.NumberIsPrime(i);
+                var isPrime = Problem007.Program.NumberIsPrime(i);
                 if (isPrime)
                 {
                     result += i;
-                    lastPrime = i;
                 }
             }
-            return result + 2;
+            return result;
         }
     }
 

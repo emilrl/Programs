@@ -2,10 +2,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Problem011;
 
-namespace Problem11Tests
+namespace Problem011Tests
 {
     [TestClass]
-    public class Problem11Tests
+    public class Problem011Tests
     {
         [TestMethod]
         public void TestNumberList()

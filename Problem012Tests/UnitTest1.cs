@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Problem12;
+using Problem012;
 
-namespace Problem12Tests
+namespace Problem012Tests
 {
     [TestClass]
     public class UnitTest1
