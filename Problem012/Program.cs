@@ -8,10 +8,6 @@ namespace Problem012
 {
     public class Program
     {
-        static void Main(string[] args)
-        {
-        }
-
         public static long TriangleNumber(long maxDivisorCount)
         {
             long divisorCount = 0;
