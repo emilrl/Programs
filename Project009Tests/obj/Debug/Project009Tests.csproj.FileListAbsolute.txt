@@ -1,8 +1,0 @@
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\bin\Debug\Project009Tests.dll
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\bin\Debug\Project009Tests.pdb
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\bin\Debug\Project009.exe
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\bin\Debug\Project009.pdb
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\obj\Debug\Project009Tests.csprojResolveAssemblyReference.cache
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\obj\Debug\Project009Tests.dll
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009Tests\obj\Debug\Project009Tests.pdb

@@ -1,6 +1,0 @@
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem011\bin\Debug\Problem011.exe.config
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem011\bin\Debug\Problem011.exe
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem011\bin\Debug\Problem011.pdb
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem011\obj\Debug\Problem011.csprojResolveAssemblyReference.cache
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem011\obj\Debug\Problem011.exe
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Problem011\obj\Debug\Problem011.pdb

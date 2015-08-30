@@ -1,6 +1,0 @@
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009\bin\Debug\Project009.exe.config
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009\bin\Debug\Project009.exe
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009\bin\Debug\Project009.pdb
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009\obj\Debug\Project009.csprojResolveAssemblyReference.cache
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009\obj\Debug\Project009.exe
-C:\Users\Emil\documents\visual studio 2015\Projects\ProjectEuler\Project009\obj\Debug\Project009.pdb
