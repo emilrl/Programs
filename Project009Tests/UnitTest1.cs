@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Reflection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Project009;
+using Problem009;
 
-namespace Project009Tests
+namespace Problem009Tests
 {
     [TestClass]
     public class Project009Tests
