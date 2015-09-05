@@ -36,16 +36,16 @@ namespace Problem011
             return numbersList;
         }
 
-        public static int[,] ListToArray(List<int> numbers)
+        public static int[,] ListToArray(List<int> numbers, int a, int b)
         {
             var list = new List<int>();
             list = numbers;
-            var list2 = new int[20, 20];
-            for (var i = 0; i < 20; i++)
+            var list2 = new int[a, b];
+            for (var i = 0; i < a; i++)
             {
-                for (var j = 0; j < 20; j++)
+                for (var j = 0; j < b; j++)
                 {
-                    list2[i, j] = list[i * 20 + j];
+                    list2[i, j] = list[i * b + j];
                 }
             }
             return list2;
