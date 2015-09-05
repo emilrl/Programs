@@ -13,5 +13,12 @@ namespace Tests._012
             var result = Program.TriangleNumber(2);
             Console.WriteLine(result);
         }
+
+        [TestMethod, TestCategory("Answer")]
+        public void _012TriangleNumberTests5()
+        {
+            var result = Program.TriangleNumber(500);
+            Console.WriteLine(result);
+        }
     }
 }
