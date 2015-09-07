@@ -51,9 +51,9 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Problem007\Problem007.csproj">
+    <ProjectReference Include="..\Problem007\007 10001st prime.csproj">
       <Project>{ec239684-3711-4570-b872-c5ff2138b39b}</Project>
-      <Name>Problem007</Name>
+      <Name>007 10001st prime</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

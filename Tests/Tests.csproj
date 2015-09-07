@@ -63,29 +63,29 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Problem009\Problem009.csproj">
+    <ProjectReference Include="..\Problem009\009 Special Pythagorean triplet.csproj">
       <Project>{84245648-2156-4522-8d5b-d201b8cc1071}</Project>
-      <Name>Problem009</Name>
+      <Name>009 Special Pythagorean triplet</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Problem010\Problem010.csproj">
+    <ProjectReference Include="..\Problem010\010 Summation of primes.csproj">
       <Project>{8ba6cfd0-9699-4ffe-a3ae-e9d34132a6ff}</Project>
-      <Name>Problem010</Name>
+      <Name>010 Summation of primes</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Problem011\Problem011.csproj">
+    <ProjectReference Include="..\Problem011\011 Largest product in a grid.csproj">
       <Project>{bb6fc07a-5f1e-487f-ba5d-8e6ccd925003}</Project>
-      <Name>Problem011</Name>
+      <Name>011 Largest product in a grid</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Problem012\Problem012.csproj">
+    <ProjectReference Include="..\Problem012\012 Highly divisible triangular number.csproj">
       <Project>{87da83ea-c5cc-4adf-8988-f8b8c475cc63}</Project>
-      <Name>Problem012</Name>
+      <Name>012 Highly divisible triangular number</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Problem013\Problem013.csproj">
+    <ProjectReference Include="..\Problem013\013 Large Sum.csproj">
       <Project>{e0259adb-e8e2-4bc9-87cd-bc6815c9f0b4}</Project>
-      <Name>Problem013</Name>
+      <Name>013 Large Sum</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Problem456\Problem456.csproj">
+    <ProjectReference Include="..\Problem456\456 Triangles containing the origin II.csproj">
       <Project>{28334b2f-c20f-41d0-b768-3d9011c6b413}</Project>
-      <Name>Problem456</Name>
+      <Name>456 Triangles containing the origin II</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

@@ -3,31 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem006", "Problem006\Problem006.csproj", "{202726E8-3038-47A5-8EA1-2602B1A1A4D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 Sum square difference", "Problem006\006 Sum square difference.csproj", "{202726E8-3038-47A5-8EA1-2602B1A1A4D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem007", "Problem007\Problem007.csproj", "{EC239684-3711-4570-B872-C5FF2138B39B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 10001st prime", "Problem007\007 10001st prime.csproj", "{EC239684-3711-4570-B872-C5FF2138B39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem456", "Problem456\Problem456.csproj", "{28334B2F-C20F-41D0-B768-3D9011C6B413}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "456 Triangles containing the origin II", "Problem456\456 Triangles containing the origin II.csproj", "{28334B2F-C20F-41D0-B768-3D9011C6B413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem010", "Problem010\Problem010.csproj", "{8BA6CFD0-9699-4FFE-A3AE-E9D34132A6FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 Summation of primes", "Problem010\010 Summation of primes.csproj", "{8BA6CFD0-9699-4FFE-A3AE-E9D34132A6FF}"
 	ProjectSection(ProjectDependencies) = postProject
 		{EC239684-3711-4570-B872-C5FF2138B39B} = {EC239684-3711-4570-B872-C5FF2138B39B}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem011", "Problem011\Problem011.csproj", "{BB6FC07A-5F1E-487F-BA5D-8E6CCD925003}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 Largest product in a grid", "Problem011\011 Largest product in a grid.csproj", "{BB6FC07A-5F1E-487F-BA5D-8E6CCD925003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem008", "Problem008\Problem008.csproj", "{460AE439-1BFF-4E83-B699-538866EA00E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 Largest product in a series", "Problem008\008 Largest product in a series.csproj", "{460AE439-1BFF-4E83-B699-538866EA00E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem009", "Problem009\Problem009.csproj", "{84245648-2156-4522-8D5B-D201B8CC1071}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 Special Pythagorean triplet", "Problem009\009 Special Pythagorean triplet.csproj", "{84245648-2156-4522-8D5B-D201B8CC1071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem012", "Problem012\Problem012.csproj", "{87DA83EA-C5CC-4ADF-8988-F8B8C475CC63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 Highly divisible triangular number", "Problem012\012 Highly divisible triangular number.csproj", "{87DA83EA-C5CC-4ADF-8988-F8B8C475CC63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{389D7C53-0972-4C8F-A563-6CCB2816B040}"
 	ProjectSection(ProjectDependencies) = postProject
 		{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4} = {E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem013", "Problem013\Problem013.csproj", "{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Large Sum", "Problem013\013 Large Sum.csproj", "{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
