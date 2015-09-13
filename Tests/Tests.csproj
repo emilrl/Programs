@@ -57,12 +57,17 @@
     <Compile Include="001-100\011\Problem011Tests.cs" />
     <Compile Include="001-100\012\Problem012Tests.cs" />
     <Compile Include="001-100\013\UnitTest1.cs" />
+    <Compile Include="001-100\014\014.cs" />
     <Compile Include="401-500\456\PointFactoryTests.cs" />
     <Compile Include="401-500\456\PointTests.cs" />
     <Compile Include="401-500\456\TriangleHelperTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\014 Longest Collatz sequence\014 Longest Collatz sequence.csproj">
+      <Project>{17f47c30-6b9a-47d0-b3f3-1c41834ba802}</Project>
+      <Name>014 Longest Collatz sequence</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Problem009\009 Special Pythagorean triplet.csproj">
       <Project>{84245648-2156-4522-8d5b-d201b8cc1071}</Project>
       <Name>009 Special Pythagorean triplet</Name>
