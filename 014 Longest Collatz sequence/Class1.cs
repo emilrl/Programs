@@ -9,25 +9,25 @@ namespace _014_Longest_Collatz_sequence
 {
     public class Class1
     {
-        public static int Even(int number)
+        public static long Even(long number)
         {
             return number/2;
         }
 
-        public static int Uneven(int number)
+        public static long Uneven(long number)
         {
             return (number*3) + 1;
         }
 
-        public static int LongestCollatz(int belowNumber)
+        public static long LongestCollatz(long belowNumber)
         {
-            var collatzList = new int[(belowNumber), 3];
-            var longestNum = 0;
-            var longestLength = 0;
-            for (var i = 0; i < belowNumber; i++)
+            var collatzList = new long[(belowNumber), 3];
+            long longestNum = 0;
+            long longestLength = 0;
+            for (long i = 0; i < belowNumber; i++)
             {
-                var j = i;
-                var count = 1;
+                long j = i;
+                long count = 1;
                 while (j > 1)
                 {
                     if (j < i)
