@@ -7,9 +7,15 @@ using System.Threading.Tasks;
 
 namespace Problem013
 {
-    public class Class1
+    public static class Class1
     {
+        /// <summary>
+        /// Takes a string of a number and turns it into a list of single digits.
+        /// </summary>
+        /// <param name="number"></param>
+        /// <returns></returns>
         public static List<int> StringToIntList(string number)
+        
         {
             var intList = new List<int>();
             string numString = number;
@@ -21,10 +27,16 @@ namespace Problem013
             return intList;
         }
 
-        public static List<int> SumLists(List<int> resultList, List<int> addList)
+        /// <summary>
+        /// Takes two lists of digit and sums them as two big numbers.
+        /// </summary>
+        /// <param name="addList1"></param>
+        /// <param name="addList2"></param>
+        /// <returns></returns>
+        public static List<int> SumLists(List<int> addList1, List<int> addList2)
         {
-            var result = resultList;
-            var add = addList;
+            var result = addList1;
+            var add = addList2;
             bool rest = false;
             for (var i = (result.Count - 1); i >= 0; i--)
             {

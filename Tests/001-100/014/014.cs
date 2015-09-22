@@ -7,8 +7,8 @@ namespace Tests._001_100
     [TestClass]
     public class _014
     {
-        [TestMethod]
-        public void CollatzTests()
+        [TestMethod, TestCategory("Answer")]
+        public void _014CollatzTests()
         {
             var result = Class1.LongestCollatz(1000000);
             Console.WriteLine(result);

@@ -33,6 +33,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 Longest Collatz sequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 Lattice Paths", "015 Lattice Paths\015 Lattice Paths.csproj", "{C0AAD7D4-5357-4B27-815C-4D2C170C7289}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 Power digit sum", "016 Power digit sum\016 Power digit sum.csproj", "{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4} = {E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +92,10 @@ Global
 		{C0AAD7D4-5357-4B27-815C-4D2C170C7289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0AAD7D4-5357-4B27-815C-4D2C170C7289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0AAD7D4-5357-4B27-815C-4D2C170C7289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

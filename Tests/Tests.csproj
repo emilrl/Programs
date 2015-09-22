@@ -59,6 +59,7 @@
     <Compile Include="001-100\013\UnitTest1.cs" />
     <Compile Include="001-100\014\014.cs" />
     <Compile Include="001-100\015\015.cs" />
+    <Compile Include="001-100\016\016.cs" />
     <Compile Include="401-500\456\PointFactoryTests.cs" />
     <Compile Include="401-500\456\PointTests.cs" />
     <Compile Include="401-500\456\TriangleHelperTests.cs" />
@@ -72,6 +73,10 @@
     <ProjectReference Include="..\015 Lattice Paths\015 Lattice Paths.csproj">
       <Project>{c0aad7d4-5357-4b27-815c-4d2c170c7289}</Project>
       <Name>015 Lattice Paths</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\016 Power digit sum\016 Power digit sum.csproj">
+      <Project>{2022588d-2eca-4782-b1eb-2eb515bcfaa2}</Project>
+      <Name>016 Power digit sum</Name>
     </ProjectReference>
     <ProjectReference Include="..\Problem009\009 Special Pythagorean triplet.csproj">
       <Project>{84245648-2156-4522-8d5b-d201b8cc1071}</Project>
