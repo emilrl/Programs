@@ -115,7 +115,7 @@
       <Project>{e85a2a0d-190f-45c3-ae7b-0c69c626d6fb}</Project>
       <Name>017 Number letter count</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Problem456\456 Triangles containing the origin II.csproj">
+    <ProjectReference Include="..\456 Triangles containing the origin II\456 Triangles containing the origin II.csproj">
       <Project>{28334b2f-c20f-41d0-b768-3d9011c6b413}</Project>
       <Name>456 Triangles containing the origin II</Name>
     </ProjectReference>

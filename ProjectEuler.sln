@@ -3,10 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "456 Triangles containing the origin II", "Problem456\456 Triangles containing the origin II.csproj", "{28334B2F-C20F-41D0-B768-3D9011C6B413}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{389D7C53-0972-4C8F-A563-6CCB2816B040}"
 	ProjectSection(ProjectDependencies) = postProject
+		{28334B2F-C20F-41D0-B768-3D9011C6B413} = {28334B2F-C20F-41D0-B768-3D9011C6B413}
 		{460AE439-1BFF-4E83-B699-538866EA00E7} = {460AE439-1BFF-4E83-B699-538866EA00E7}
 		{84245648-2156-4522-8D5B-D201B8CC1071} = {84245648-2156-4522-8D5B-D201B8CC1071}
 		{BB6FC07A-5F1E-487F-BA5D-8E6CCD925003} = {BB6FC07A-5F1E-487F-BA5D-8E6CCD925003}
@@ -44,16 +43,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 Highly divisible triang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Large Sum", "013 Large Sum\013 Large Sum.csproj", "{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "456 Triangles containing the origin II", "456 Triangles containing the origin II\456 Triangles containing the origin II.csproj", "{28334B2F-C20F-41D0-B768-3D9011C6B413}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Release|Any CPU.Build.0 = Release|Any CPU
 		{389D7C53-0972-4C8F-A563-6CCB2816B040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{389D7C53-0972-4C8F-A563-6CCB2816B040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{389D7C53-0972-4C8F-A563-6CCB2816B040}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -106,6 +103,10 @@ Global
 		{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28334B2F-C20F-41D0-B768-3D9011C6B413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
