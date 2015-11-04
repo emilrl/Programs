@@ -67,6 +67,38 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\006 Sum square difference\006 Sum square difference.csproj">
+      <Project>{202726e8-3038-47a5-8ea1-2602b1a1a4d4}</Project>
+      <Name>006 Sum square difference</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\007 10001st prime\007 10001st prime.csproj">
+      <Project>{ec239684-3711-4570-b872-c5ff2138b39b}</Project>
+      <Name>007 10001st prime</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\008 Largest product in a series\008 Largest product in a series.csproj">
+      <Project>{460ae439-1bff-4e83-b699-538866ea00e7}</Project>
+      <Name>008 Largest product in a series</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\009 Special Pythagorean triplet\009 Special Pythagorean triplet.csproj">
+      <Project>{84245648-2156-4522-8d5b-d201b8cc1071}</Project>
+      <Name>009 Special Pythagorean triplet</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\010 Summation of primes\010 Summation of primes.csproj">
+      <Project>{8ba6cfd0-9699-4ffe-a3ae-e9d34132a6ff}</Project>
+      <Name>010 Summation of primes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\011 Largest product in a grid\011 Largest product in a grid.csproj">
+      <Project>{bb6fc07a-5f1e-487f-ba5d-8e6ccd925003}</Project>
+      <Name>011 Largest product in a grid</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\012 Highly divisible triangular number\012 Highly divisible triangular number.csproj">
+      <Project>{87da83ea-c5cc-4adf-8988-f8b8c475cc63}</Project>
+      <Name>012 Highly divisible triangular number</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\013 Large Sum\013 Large Sum.csproj">
+      <Project>{e0259adb-e8e2-4bc9-87cd-bc6815c9f0b4}</Project>
+      <Name>013 Large Sum</Name>
+    </ProjectReference>
     <ProjectReference Include="..\014 Longest Collatz sequence\014 Longest Collatz sequence.csproj">
       <Project>{17f47c30-6b9a-47d0-b3f3-1c41834ba802}</Project>
       <Name>014 Longest Collatz sequence</Name>
@@ -82,26 +114,6 @@
     <ProjectReference Include="..\017 Number letter count\017 Number letter count.csproj">
       <Project>{e85a2a0d-190f-45c3-ae7b-0c69c626d6fb}</Project>
       <Name>017 Number letter count</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Problem009\009 Special Pythagorean triplet.csproj">
-      <Project>{84245648-2156-4522-8d5b-d201b8cc1071}</Project>
-      <Name>009 Special Pythagorean triplet</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Problem010\010 Summation of primes.csproj">
-      <Project>{8ba6cfd0-9699-4ffe-a3ae-e9d34132a6ff}</Project>
-      <Name>010 Summation of primes</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Problem011\011 Largest product in a grid.csproj">
-      <Project>{bb6fc07a-5f1e-487f-ba5d-8e6ccd925003}</Project>
-      <Name>011 Largest product in a grid</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Problem012\012 Highly divisible triangular number.csproj">
-      <Project>{87da83ea-c5cc-4adf-8988-f8b8c475cc63}</Project>
-      <Name>012 Highly divisible triangular number</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Problem013\013 Large Sum.csproj">
-      <Project>{e0259adb-e8e2-4bc9-87cd-bc6815c9f0b4}</Project>
-      <Name>013 Large Sum</Name>
     </ProjectReference>
     <ProjectReference Include="..\Problem456\456 Triangles containing the origin II.csproj">
       <Project>{28334b2f-c20f-41d0-b768-3d9011c6b413}</Project>

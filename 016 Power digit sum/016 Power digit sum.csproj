@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Problem013\013 Large Sum.csproj">
+    <ProjectReference Include="..\013 Large Sum\013 Large Sum.csproj">
       <Project>{e0259adb-e8e2-4bc9-87cd-bc6815c9f0b4}</Project>
       <Name>013 Large Sum</Name>
     </ProjectReference>
