@@ -51,7 +51,7 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Problem007\007 10001st prime.csproj">
+    <ProjectReference Include="..\007 10001st prime\007 10001st prime.csproj">
       <Project>{ec239684-3711-4570-b872-c5ff2138b39b}</Project>
       <Name>007 10001st prime</Name>
     </ProjectReference>
