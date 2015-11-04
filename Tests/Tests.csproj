@@ -60,6 +60,7 @@
     <Compile Include="001-100\014\014.cs" />
     <Compile Include="001-100\015\015.cs" />
     <Compile Include="001-100\016\016.cs" />
+    <Compile Include="001-100\017\017.cs" />
     <Compile Include="401-500\456\PointFactoryTests.cs" />
     <Compile Include="401-500\456\PointTests.cs" />
     <Compile Include="401-500\456\TriangleHelperTests.cs" />
@@ -77,6 +78,10 @@
     <ProjectReference Include="..\016 Power digit sum\016 Power digit sum.csproj">
       <Project>{2022588d-2eca-4782-b1eb-2eb515bcfaa2}</Project>
       <Name>016 Power digit sum</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\017 Number letter count\017 Number letter count.csproj">
+      <Project>{e85a2a0d-190f-45c3-ae7b-0c69c626d6fb}</Project>
+      <Name>017 Number letter count</Name>
     </ProjectReference>
     <ProjectReference Include="..\Problem009\009 Special Pythagorean triplet.csproj">
       <Project>{84245648-2156-4522-8d5b-d201b8cc1071}</Project>

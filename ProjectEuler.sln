@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 Power digit sum", "016 
 		{E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4} = {E0259ADB-E8E2-4BC9-87CD-BC6815C9F0B4}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017 Number letter count", "017 Number letter count\017 Number letter count.csproj", "{E85A2A0D-190F-45C3-AE7B-0C69C626D6FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,6 +98,10 @@ Global
 		{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2022588D-2ECA-4782-B1EB-2EB515BCFAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85A2A0D-190F-45C3-AE7B-0C69C626D6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85A2A0D-190F-45C3-AE7B-0C69C626D6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85A2A0D-190F-45C3-AE7B-0C69C626D6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85A2A0D-190F-45C3-AE7B-0C69C626D6FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
