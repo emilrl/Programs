@@ -61,6 +61,8 @@
     <Compile Include="001-100\015\015.cs" />
     <Compile Include="001-100\016\016.cs" />
     <Compile Include="001-100\017\017.cs" />
+    <Compile Include="001-100\018\018.cs" />
+    <Compile Include="001-100\067\067.cs" />
     <Compile Include="401-500\456\PointFactoryTests.cs" />
     <Compile Include="401-500\456\PointTests.cs" />
     <Compile Include="401-500\456\TriangleHelperTests.cs" />
@@ -115,12 +117,19 @@
       <Project>{e85a2a0d-190f-45c3-ae7b-0c69c626d6fb}</Project>
       <Name>017 Number letter count</Name>
     </ProjectReference>
+    <ProjectReference Include="..\018 Maximum path sum I\018 Maximum path sum I.csproj">
+      <Project>{b72edf7c-abec-42d1-bb15-bee71bdb018d}</Project>
+      <Name>018 Maximum path sum I</Name>
+    </ProjectReference>
     <ProjectReference Include="..\456 Triangles containing the origin II\456 Triangles containing the origin II.csproj">
       <Project>{28334b2f-c20f-41d0-b768-3d9011c6b413}</Project>
       <Name>456 Triangles containing the origin II</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\TextFile1.txt" />
+    <Content Include="Resources\TextFile2.txt" />
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
